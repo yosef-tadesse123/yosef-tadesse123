@@ -4,13 +4,13 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yosef-tadesse123&label=Profile%20views&color=0e75b6&style=flat" alt="yosef-tadesse123" /> </p>
 
-- 🌱 I’m currently **Full Stack Developer**
+- 🌱 I’m currently **Full Stack Developer** and QA Automation Engineer
 
 - 👨‍💻 All of my projects are available at [https://my-final-protfolio.web.app/](https://my-final-protfolio.web.app/)
 
 - 💬 Ask me about **C,C++,Python, javascript, java, c#**
 - 
-- 📫 How to reach me **yosiiitadesse@gmail.com**
+- 📫 How to reach me **yoseftadesse11@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
