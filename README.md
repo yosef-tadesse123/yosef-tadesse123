@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently **Full Stack Developer** and QA Automation Engineer
 
-- 👨‍💻 All of my projects are available at [https://my-final-protfolio.web.app/](https://my-final-protfolio.web.app/)
-
 - 💬 Ask me about **C,C++,Python, javascript, java, c#**
 - 
 - 📫 How to reach me **yoseftadesse11@gmail.com**
